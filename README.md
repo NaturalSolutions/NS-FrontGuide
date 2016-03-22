@@ -6,9 +6,8 @@
 ## HTML
 
 ## CSS
-- Convention de nommage
-- 
 
+- Convention de nommage
 
 * Pas de majuscule
 * Linters jscs ou travailler sans outils ?
