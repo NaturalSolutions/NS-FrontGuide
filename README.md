@@ -14,11 +14,6 @@
 * Le développeur doit avoir en tête qu’une classe non-préfixe par js- peut changer de nom par l’intégrateur.
 * Faire le moins d’élément possible :
 ** eviter les élements sans id ou classe
-
-
-
-### Best practice
-
 * ID unique sur une page
 
 ## CSS
