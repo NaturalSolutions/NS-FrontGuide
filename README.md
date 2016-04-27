@@ -7,7 +7,7 @@
 * Pour classes qui sont utilisée par le JS, ajouter un préfixe `js-*`
 * Il vaut mieux manipuler le template que le DOM
 * En JS, utiliser append/prepend si possible, after/before si on n’a pas le choix.
-* Toujours utiliser les simple quote en js. (ex: $('<div class="double-car-html"></div>');)
+* Toujours utiliser les simple quote en js. (ex: `$('<div class="double-car-html"></div>');`)
 
 ## HTML
 
